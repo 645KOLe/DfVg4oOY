@@ -298,7 +298,6 @@
   metabase.util.jvm/with-us-locale                                                     [[:block 0]]
   metabase.util.malli/disable-enforcement                                              [[:block 0]]
   metabase.util.malli/with                                                             [[:default]]
-  metabase.util.malli/with-api-error-message                                           [[:default]]
   metabase.util.namespaces/import-fns                                                  [[:default]]
   metabuild-common.core/exit-when-finished-nonzero-on-exception                        [[:block 0]]
   metabuild-common.core/step                                                           [[:block 1]]
